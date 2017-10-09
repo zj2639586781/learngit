@@ -1,0 +1,5 @@
+Dependencies for Project 'pro_led_on', Target 'Target 1': (DO NOT MODIFY !)
+F (.\library.h)(0x59DB4051)()
+F (.\main.c)(0x59DB42D0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\THINK\Documents\stm_test\pro_led_on\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_LD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (library.h)(0x59DB4051)
+F (.\startup_stm32f10x_hd.s)(0x58953819)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\THINK\Documents\stm_test\pro_led_on\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "STM32F10X_LD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
